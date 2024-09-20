@@ -1,0 +1,1 @@
+Make sure to have redis running either locally or remote. Settings available in application.properties
